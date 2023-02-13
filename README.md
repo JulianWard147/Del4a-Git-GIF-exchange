@@ -61,7 +61,9 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Sasha
 
 ### Patricio
-![Patricio](https://external-preview.redd.it/sbpD0zvHTZrx6VMdvrtvvePqAWFEXWMkuRmmFr6RUnc.gif?format=mp4&v=enabled&s=4b53da23080bac2158cba5caa14afd2f641ac512)
+![Patricio](https://tenor.com/view/de-otro-planeta-gif-7152843)
+':)'
+
 ### Landon
 
 ### Aidan
