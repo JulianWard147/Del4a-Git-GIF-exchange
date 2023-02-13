@@ -55,7 +55,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ### De'Angelo
 
 ### Max Schliesman
-
+![Sad Tired Baby](https://media1.tenor.com/images/7b450db04f95674f3af1f8d378f13650/tenor.gif?itemid=7995639)
 ### Quinn
 
 ### Sasha
@@ -77,3 +77,6 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Jordan
 
 ### Nick
+
+
+
