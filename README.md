@@ -76,4 +76,6 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Jordan
 
+![](https://media1.giphy.com/media/AVpE6BqnOvbzi/giphy.gif)
+
 ### Nick
