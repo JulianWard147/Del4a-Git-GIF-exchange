@@ -80,6 +80,8 @@ Hii, I did it!!
 ![Sad Tired Baby](https://media1.tenor.com/images/7b450db04f95674f3af1f8d378f13650/tenor.gif?itemid=7995639)
 ### Quinn
 
+![Shaq Shake](https://tenor.com/view/yes-ayye-zoom-shoulder-shake-gif-14839794)
+
 ### Sasha
 ![Kawhi Leonard laugh](https://media3.giphy.com/media/XbDWBEVcvBhJhLjZ16/giphy.gif?cid=790b761100a5a34a59550d09c14bddd72f9e11193e55592e&rid=giphy.gif&ct=g)
 ### Patricio
