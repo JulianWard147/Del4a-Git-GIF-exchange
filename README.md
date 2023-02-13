@@ -61,8 +61,11 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Sasha
 
 ### Patricio
-(http://leatheretteland.blogspot.com/2010_09_01_archive.html)
+
+
+![Patricio](http://2.bp.blogspot.com/_aXiCUcACFVs/TJz1prL60aI/AAAAAAAAAjI/KADpxQnBwMc/s1600/1278956355832-dumpfm-jeanette-alien_dance.gif)
 ':)'
+
 
 ### Landon
 
