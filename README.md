@@ -1,8 +1,4 @@
-# Guided Git GIF-STRAVAGANZA
-:I
 
-
-cd
 Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a *Git branching workflow* so we can all contribute to this README file.
 
 ## Steps
@@ -21,7 +17,13 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Julian
 
+Hello!
+
 ![Dancing cat from Tenor](https://media.tenor.com/QM-si3_EAyIAAAAC/listening-to-music-dancing.gif)
+
+
+### Samuel
+![Ron Swanson Vibing](https://media.giphy.com/media/TbPh7p3cfUAPC/giphy.gif)
 
 ### Roberto
 
@@ -31,15 +33,27 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Eduardo
 
+![I Have No Idea What Im Doing](https://media.giphy.com/media/rAm0u2k17rM3e/giphy.gif)
+
+### Gerardo
+
+![Fixed this for merge]https://media.giphy.com/media/3o7aD0qikeYPBASzfy/giphy.gif
+
 ### Miguel
 
 ### Alicia
 
-### Cullen is the best :D![Dancing cat from Tenor](https://media.tenor.com/QM-si3_EAyIAAAAC/listening-to-music-dancing.gif)
+Hii, I did it!!
+![Tired Gif][https://media.giphy.com/media/5MSpg1lKBwqZEPDKOK/giphy.gif]
+
+### Cullen
+
+[Dancing cat from Tenor](https://media.tenor.com/QM-si3_EAyIAAAAC/listening-to-music-dancing.gif)
 
 ### Max Garcia
 
 ### Cristian
+![Angry Professor Utonium](https://i.redd.it/o2c326951o091.gif)
 
 ### Juan
 
@@ -50,26 +64,32 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Hannah
 
 ### Paola
-
-### Samuel
+:)
+![Poohpensndo](https://media.giphy.com/media/777Aby0ZetYE8/giphy.gif)
 
 ### Oscar
+![Hard Work](https://th.bing.com/th/id/R.ec51a2405ef2662278140d7830fbbe2f?rik=BJ64k8uStjN5TQ&riu=http%3a%2f%2f24.media.tumblr.com%2f230a60097a57d5e1242d9fa244f46799%2ftumblr_msk1s40iTO1qat8sbo1_500.gif&ehk=8v6RFDn9CIe377IyIqSNgr5gwNJQ0WaqC3L%2fiii74hw%3d&risl=&pid=ImgRaw&r=0)
 
 ### De'Angelo
 
 ### Max Schliesman
-
+![Sad Tired Baby](https://media1.tenor.com/images/7b450db04f95674f3af1f8d378f13650/tenor.gif?itemid=7995639)
 ### Quinn
 
 ### Sasha
-
+![Kawhi Leonard laugh](https://media3.giphy.com/media/XbDWBEVcvBhJhLjZ16/giphy.gif?cid=790b761100a5a34a59550d09c14bddd72f9e11193e55592e&rid=giphy.gif&ct=g)
 ### Patricio
+![Patricio](https://tenor.com/view/de-otro-planeta-gif-7152843)
+':)'
 
 ### Landon
 
 ### Aidan
+![Hard Monday](https://tenor.com/view/thmbjm-hard-monday-gif-26064218)
 
 ### Gina
+
+![don't know what's happening](https://images.app.goo.gl/joK5CmtLK3BPTXNt5)
 
 ### Mercedez
 
@@ -80,5 +100,3 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Jordan
 
 ### Nick
-
-
