@@ -1,3 +1,4 @@
+
 Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a *Git branching workflow* so we can all contribute to this README file.
 
 ## Steps
@@ -46,6 +47,8 @@ Hii, I did it!!
 ![Tired Gif][https://media.giphy.com/media/5MSpg1lKBwqZEPDKOK/giphy.gif]
 
 ### Cullen
+
+[Dancing cat from Tenor](https://media.tenor.com/QM-si3_EAyIAAAAC/listening-to-music-dancing.gif)
 
 ### Max Garcia
 
