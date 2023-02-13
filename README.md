@@ -59,7 +59,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Quinn
 
 ### Sasha
-![Kawhi Leonard laugh](https://media.giphy.com/media/XbDWBEVcvBhJhLjZ16/giphy.gif)
+![Kawhi Leonard laugh](https://media.giphy.com/media/7JQRVbQqCIv7aQzQ1P/giphy-downsized.gif)
 ### Patricio
 
 ### Landon
