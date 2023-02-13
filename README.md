@@ -82,6 +82,7 @@ Hii, I did it!!
 ### Landon
 
 ### Aidan
+![Hard Monday](https://tenor.com/view/thmbjm-hard-monday-gif-26064218)
 
 ### Gina
 
