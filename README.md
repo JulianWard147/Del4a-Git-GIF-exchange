@@ -1,3 +1,87 @@
+Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a *Git branching workflow* so we can all contribute to this README file.
+
+## Steps
+
+1. Slack Julian your github account username so he can send you an invite to collaborate. Then, accept the invite to collaborate on this repository (should be an email sent to the email address associated with your GitHub account - will be sent out at the start of the Guided Session)
+2. Clone down this repository (**don't fork it!**) to a good place on your computer
+3. Create a new branch on your local repository (I recommend naming your branch after yourself)
+4. Find a GIF or image that summarizes how you're feeling today
+5. Use Markdown syntax and a text editor to add the GIF or image to this README.md file **under your name**
+6. Add and commit your local changes to your branch
+7. Push **your branch** to this repository (this step will not work if you forgot to checkout a branch in step 2!)
+8. Start a pull request
+
+I will either accept your pull request, or send you feedback on what you need to do to improve!
+
+
+### Julian
+
+![Dancing cat from Tenor](https://media.tenor.com/QM-si3_EAyIAAAAC/listening-to-music-dancing.gif)
+
+### Roberto
+
+### Jahnavi
+
+### Brandon
+
+### Eduardo
+
+![I Have No Idea What Im Doing](https://media.giphy.com/media/rAm0u2k17rM3e/giphy.gif)
+
 ### Gerardo
 
-![]https://media.giphy.com/media/3o7aD0qikeYPBASzfy/giphy.gif
+![Fixed this for merge]https://media.giphy.com/media/3o7aD0qikeYPBASzfy/giphy.gif
+
+### Miguel
+
+### Alicia
+
+### Cullen
+
+### Max Garcia
+
+### Cristian
+
+### Juan
+
+### Paniz
+
+### Daniel
+
+### Hannah
+
+### Paola
+:)
+![Poohpensndo](https://media.giphy.com/media/777Aby0ZetYE8/giphy.gif)
+
+### Samuel
+
+### Oscar
+
+### De'Angelo
+
+### Max Schliesman
+![Sad Tired Baby](https://media1.tenor.com/images/7b450db04f95674f3af1f8d378f13650/tenor.gif?itemid=7995639)
+### Quinn
+
+### Sasha
+![Kawhi Leonard laugh](https://media3.giphy.com/media/XbDWBEVcvBhJhLjZ16/giphy.gif?cid=790b761100a5a34a59550d09c14bddd72f9e11193e55592e&rid=giphy.gif&ct=g)
+### Patricio
+![Patricio](https://tenor.com/view/de-otro-planeta-gif-7152843)
+':)'
+
+### Landon
+
+### Aidan
+
+### Gina
+
+### Mercedez
+
+### Nacho
+
+### Gerardo
+
+### Jordan
+
+### Nick
