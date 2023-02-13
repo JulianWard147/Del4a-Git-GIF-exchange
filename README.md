@@ -1,5 +1,3 @@
-# Guided Git GIF-STRAVAGANZA
-
 Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a *Git branching workflow* so we can all contribute to this README file.
 
 ## Steps
@@ -29,6 +27,10 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Eduardo
 
 ![I Have No Idea What Im Doing](https://media.giphy.com/media/rAm0u2k17rM3e/giphy.gif)
+
+### Gerardo
+
+![Fixed this for merge]https://media.giphy.com/media/3o7aD0qikeYPBASzfy/giphy.gif
 
 ### Miguel
 
@@ -83,6 +85,3 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Jordan
 
 ### Nick
-
-
-
