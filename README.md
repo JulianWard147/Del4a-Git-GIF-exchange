@@ -32,6 +32,9 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Alicia
 
+Hii, I did it!!
+![Tired Gif][https://media.giphy.com/media/5MSpg1lKBwqZEPDKOK/giphy.gif]
+
 ### Cullen
 
 ### Max Garcia
