@@ -84,7 +84,7 @@ Hii, I did it!!
 ![Sad Tired Baby](https://media1.tenor.com/images/7b450db04f95674f3af1f8d378f13650/tenor.gif?itemid=7995639)
 ### Quinn
 
-![Shaq Shake](https://tenor.com/view/yes-ayye-zoom-shoulder-shake-gif-14839794)
+![Shaq Shake](https://tenor.com/view/yes-ayye-zoom-shoulder-shake-gif-14839794.gif)
 
 ### Sasha
 
