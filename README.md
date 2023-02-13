@@ -26,6 +26,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Brandon
 
+![Gumball](https://45.media.tumblr.com/c3e99f803fc762ccde32c407d7d3f4e1/tumblr_nbaxhfLzSj1tcq9tho1_500.gif)
+
 ### Eduardo
 
 ### Miguel
