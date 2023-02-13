@@ -18,6 +18,10 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ![Dancing cat from Tenor](https://media.tenor.com/QM-si3_EAyIAAAAC/listening-to-music-dancing.gif)
 
+
+### Samuel
+![Ron Swanson Vibing](https://media.giphy.com/media/TbPh7p3cfUAPC/giphy.gif)
+
 ### Roberto
 
 ### Jahnavi
@@ -57,8 +61,6 @@ Hii, I did it!!
 ### Paola
 :)
 ![Poohpensndo](https://media.giphy.com/media/777Aby0ZetYE8/giphy.gif)
-
-### Samuel
 
 ### Oscar
 ![Hard Work](https://th.bing.com/th/id/R.ec51a2405ef2662278140d7830fbbe2f?rik=BJ64k8uStjN5TQ&riu=http%3a%2f%2f24.media.tumblr.com%2f230a60097a57d5e1242d9fa244f46799%2ftumblr_msk1s40iTO1qat8sbo1_500.gif&ehk=8v6RFDn9CIe377IyIqSNgr5gwNJQ0WaqC3L%2fiii74hw%3d&risl=&pid=ImgRaw&r=0)
