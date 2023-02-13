@@ -1,5 +1,8 @@
 # Guided Git GIF-STRAVAGANZA
+:I
 
+
+cd
 Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a *Git branching workflow* so we can all contribute to this README file.
 
 ## Steps
@@ -32,7 +35,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Alicia
 
-### Cullen
+### Cullen is the best :D![Dancing cat from Tenor](https://media.tenor.com/QM-si3_EAyIAAAAC/listening-to-music-dancing.gif)
 
 ### Max Garcia
 
@@ -77,3 +80,5 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Jordan
 
 ### Nick
+
+
