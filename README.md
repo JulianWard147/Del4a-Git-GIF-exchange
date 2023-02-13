@@ -3,6 +3,7 @@
 Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a _Git branching workflow_ so we can all contribute to this README file.
 
 
+
 ## Steps
 
 1. Slack Julian your github account username so he can send you an invite to collaborate. Then, accept the invite to collaborate on this repository (should be an email sent to the email address associated with your GitHub account - will be sent out at the start of the Guided Session)
@@ -50,6 +51,8 @@ Hii, I did it!!
 ![Tired Gif][https://media.giphy.com/media/5MSpg1lKBwqZEPDKOK/giphy.gif]
 
 ### Cullen
+
+[Dancing cat from Tenor](https://media.tenor.com/QM-si3_EAyIAAAAC/listening-to-music-dancing.gif)
 
 ### Max Garcia
 
