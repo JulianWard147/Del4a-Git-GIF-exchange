@@ -1,5 +1,8 @@
+# Guided Git GIF-STRAVAGANZA
 
-Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a *Git branching workflow* so we can all contribute to this README file.
+Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a _Git branching workflow_ so we can all contribute to this README file.
+
+
 
 ## Steps
 
@@ -13,7 +16,6 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 8. Start a pull request
 
 I will either accept your pull request, or send you feedback on what you need to do to improve!
-
 
 ### Julian
 
@@ -40,6 +42,8 @@ Hello!
 ![Fixed this for merge]https://media.giphy.com/media/3o7aD0qikeYPBASzfy/giphy.gif
 
 ### Miguel
+
+![Monkey Pissed GIF](https://tenor.com/view/monkey-pissed-mad-angry-furious-gif-4720563)
 
 ### Alicia
 
