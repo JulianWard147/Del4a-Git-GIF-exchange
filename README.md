@@ -17,6 +17,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 I will either accept your pull request, or send you feedback on what you need to do to improve!
 
+
 ### Julian
 
 Hello!
@@ -28,6 +29,7 @@ Hello!
 ![Ron Swanson Vibing](https://media.giphy.com/media/TbPh7p3cfUAPC/giphy.gif)
 
 ### Roberto
+![Feeling excited](https://www.iebschool.com/blog/wp-content/uploads/2015/03/hacer-venta.gif)
 
 ### Jahnavi
 
