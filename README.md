@@ -61,7 +61,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Sasha
 
 ### Patricio
-![Patricio](https://tenor.com/view/de-otro-planeta-gif-7152843)
+(http://leatheretteland.blogspot.com/2010_09_01_archive.html)
 ':)'
 
 ### Landon
