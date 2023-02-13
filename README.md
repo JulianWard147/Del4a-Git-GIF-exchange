@@ -16,7 +16,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 I will either accept your pull request, or send you feedback on what you need to do to improve!
 
 ### Roberto
-![Feeling excited](https://github.com/raguilarsoriano/git_practice/issues/1#issue-1583031826.gif)
+![Feeling excited](https://www.iebschool.com/blog/wp-content/uploads/2015/03/hacer-venta.gif)
 
 
 ### Julian
