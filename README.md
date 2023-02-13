@@ -58,6 +58,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Quinn
 
+![Shaq Shake](https://tenor.com/view/yes-ayye-zoom-shoulder-shake-gif-14839794)
+
 ### Sasha
 
 ### Patricio
