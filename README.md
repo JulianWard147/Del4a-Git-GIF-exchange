@@ -107,7 +107,7 @@ Hii, I did it!!
 ![don't know what's happening](https://images.app.goo.gl/joK5CmtLK3BPTXNt5)
 
 ### Mercedez
-
+![Blank Stare](https://media1.giphy.com/media/icJi1WogcfJJu/giphy.gif)
 ### Nacho
 
 ### Gerardo
