@@ -1,6 +1,6 @@
 # Guided Git GIF-STRAVAGANZA
 
-Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a *Git branching workflow* so we can all contribute to this README file.
+Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a _Git branching workflow_ so we can all contribute to this README file.
 
 ## Steps
 
@@ -15,7 +15,6 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 I will either accept your pull request, or send you feedback on what you need to do to improve!
 
-
 ### Julian
 
 ![Dancing cat from Tenor](https://media.tenor.com/QM-si3_EAyIAAAAC/listening-to-music-dancing.gif)
@@ -29,6 +28,8 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Eduardo
 
 ### Miguel
+
+![Monkey Pissed GIF](https://tenor.com/view/monkey-pissed-mad-angry-furious-gif-4720563)
 
 ### Alicia
 
