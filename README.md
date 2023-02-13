@@ -28,6 +28,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Eduardo
 
+![I Have No Idea What Im Doing](https://tenor.com/bcLr1.gif)
+
 ### Miguel
 
 ### Alicia
