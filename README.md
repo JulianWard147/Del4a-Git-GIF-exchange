@@ -28,7 +28,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Eduardo
 
-![I Have No Idea What Im Doing](https://tenor.com/bcLr1.gif)
+![I Have No Idea What Im Doing](https://media.giphy.com/media/rAm0u2k17rM3e/giphy.gif)
 
 ### Miguel
 
