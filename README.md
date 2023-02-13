@@ -20,5 +20,60 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ![Dancing cat from Tenor](https://media.tenor.com/QM-si3_EAyIAAAAC/listening-to-music-dancing.gif)
 
-### Paola 
-![Pooh](https://media.giphy.com/media/rdma0nDFZMR32/giphy.gif)
+### Roberto
+
+### Jahnavi
+
+### Brandon
+
+### Eduardo
+
+### Miguel
+
+### Alicia
+
+### Cullen
+
+### Max Garcia
+
+### Cristian
+
+### Juan
+
+### Paniz
+
+### Daniel
+
+### Hannah
+
+### Paola
+
+### Samuel
+
+### Oscar
+
+### De'Angelo
+
+### Max Schliesman
+
+### Quinn
+
+### Sasha
+
+### Patricio
+
+### Landon
+
+### Aidan
+
+### Gina
+
+### Mercedez
+
+### Nacho
+
+### Gerardo
+
+### Jordan
+
+### Nick
