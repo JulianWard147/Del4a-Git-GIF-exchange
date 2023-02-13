@@ -65,7 +65,7 @@ Hii, I did it!!
 ![Angry Professor Utonium](https://i.redd.it/o2c326951o091.gif)
 
 ### Juan
-
+![Tom from Tom&Jerry](https://media.tenor.com/v59uPIpJvkUAAAAd/sushichaeng-reaction.gif)
 ### Paniz
 ![trying to get this like](https://media.giphy.com/media/8vz6NOwRqymEQAl6pa/giphy.gif)
 ### Daniel
