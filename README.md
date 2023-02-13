@@ -19,3 +19,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Julian
 
 ![Dancing cat from Tenor](https://media.tenor.com/QM-si3_EAyIAAAAC/listening-to-music-dancing.gif)
+
+
+### Samuel Martin
+![Ron Swanson Vibing](https://media.giphy.com/media/TbPh7p3cfUAPC/giphy.gif)
