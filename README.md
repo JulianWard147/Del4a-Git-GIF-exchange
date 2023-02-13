@@ -37,6 +37,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Max Garcia
 
 ### Cristian
+https://i.redd.it/o2c326951o091.gif
 
 ### Juan
 
