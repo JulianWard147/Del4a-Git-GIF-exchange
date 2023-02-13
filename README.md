@@ -19,3 +19,6 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Julian
 
 ![Dancing cat from Tenor](https://media.tenor.com/QM-si3_EAyIAAAAC/listening-to-music-dancing.gif)
+
+### Paola 
+![Pooh](https://media.giphy.com/media/rdma0nDFZMR32/giphy.gif)
