@@ -85,7 +85,7 @@ Hii, I did it!!
 ![Shaq Shake](https://tenor.com/view/yes-ayye-zoom-shoulder-shake-gif-14839794)
 
 ### Sasha
-![Kawhi Leonard laugh](https://media3.giphy.com/media/XbDWBEVcvBhJhLjZ16/giphy.gif?cid=790b761100a5a34a59550d09c14bddd72f9e11193e55592e&rid=giphy.gif&ct=g)
+![Kawhi Leonard laugh](https://media3.giphy.com/media/XbDWBEVcvBhJhLjZ16/giphy.gif?cid=790b761100a5a34a59550d09c14bddd72f9e11193e55592e&rid=giphy.gif)
 ### Patricio
 (http://leatheretteland.blogspot.com/2010_09_01_archive.html)
 ':)'
