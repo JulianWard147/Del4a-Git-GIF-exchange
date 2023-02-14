@@ -48,7 +48,7 @@ Hii, I did it!!
 
 ### Cullen
 
-[Dancing cat from Tenor](https://media.tenor.com/QM-si3_EAyIAAAAC/listening-to-music-dancing.gif)
+![Sponge Thumbs][https://tenor.com/view/spongebob-thumbs-up-nice-well-done-approve-gif-7557539]
 
 ### Max Garcia
 
