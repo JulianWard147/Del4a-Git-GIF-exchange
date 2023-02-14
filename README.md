@@ -46,6 +46,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Hannah
 
+![Rihanna](https://giphy.com/gifs/nfl-sports-football-sport-XlRKAUlX51mpWLJOwW)
+
 ### Paola
 
 ### Samuel
@@ -77,3 +79,5 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Jordan
 
 ### Nick
+
+
